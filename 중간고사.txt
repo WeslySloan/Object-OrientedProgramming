@@ -1,14 +1,27 @@
 1. C# 언어의 특징에 대해 기술하시오
+객체지향 언어: 자료 추상화
+델리게이트와 이벤트
+멀티스레드, 예외처리
+연산자 중복, 제네릭
 
 2. C# 연산자 우선순위표를 기술하시오
 
 3. Access Modifier(private, protected, internal, public)에 대해 예를 들어 기술하시오
+다른 클래스에서 필드의 접근 허용 정도를 나타내는 속성
+private int privateField; 
+protected int protectedField; 
+internal int internalField; 
+public int publicField; 
 
 4. 델리게이트를 예와 함께 설명하시오
+메소드 참조 기법
+[modifiers] delegate returnType DelegateName(parameterList);
 
 5. 사용자 정의 이벤트를 예와 함께 설명하시오
 
 6. 상속을 예와 함께 설명하시오(생성자 실행 순서)
+베이스 클래스의 모든 멤버들이
+파생 클래스로 전달 되는 기능
 
 7. 인의예지신과 중도에 대해 기술하시오
 측은지심 수오지심 사양지심 시비지심 광명지심
