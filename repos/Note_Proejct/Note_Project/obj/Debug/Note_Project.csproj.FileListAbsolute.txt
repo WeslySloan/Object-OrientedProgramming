@@ -1,0 +1,4 @@
+C:\Users\626-19\Desktop\Note_Proejct\Note_Project\obj\Debug\Note_Project.csproj.AssemblyReference.cache
+C:\Users\626-19\Desktop\Note_Proejct\Note_Project\obj\Debug\Note_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\626-19\Desktop\Note_Proejct\Note_Project\obj\Debug\NotePad.exe
+C:\Users\626-19\Desktop\Note_Proejct\Note_Project\obj\Debug\NotePad.pdb
