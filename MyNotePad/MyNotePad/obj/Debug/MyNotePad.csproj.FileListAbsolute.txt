@@ -8,3 +8,15 @@ c:\users\batchu\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\De
 c:\users\batchu\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\Debug\MyNotePad.exe
 c:\users\batchu\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\Debug\MyNotePad.pdb
 c:\users\batchu\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\Debug\MyNotePad.fAbout.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe.config
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\bin\Debug\MyNotePad.pdb
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.AssemblyReference.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\obj\Debug\MyNotePad.fAbout.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Form1.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Properties.Resources.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.GenerateResource.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.CoreCompileInputs.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\obj\Debug\MyNotePad.exe
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\MyNotePad\MyNotePad\obj\Debug\MyNotePad.pdb
