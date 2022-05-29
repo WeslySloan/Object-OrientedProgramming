@@ -86,5 +86,10 @@ namespace WinFormsApp10
         {
             contents.Text = string.Empty;
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.contents.WordWrap = !(this.contents.WordWrap);
+        }
     }
 }
