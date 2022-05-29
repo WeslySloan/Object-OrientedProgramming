@@ -1,6 +1,6 @@
 ﻿namespace MyNotePad
 {
-    partial class fAbout
+    partial class Hinfo
     {
         /// <summary>
         /// Required designer variable.
@@ -37,9 +37,10 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(66, 42);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(157, 12);
+            this.label1.Size = new System.Drawing.Size(199, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "이 화면은 도움 화면 입니다.";
+            this.label1.Text = "도움말- 메모장 정보 표시란 입니다.";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
             // 
@@ -51,14 +52,14 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // fAbout
+            // Hinfo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(419, 214);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Name = "fAbout";
+            this.Name = "Hinfo";
             this.Text = "fAbout";
             this.ResumeLayout(false);
             this.PerformLayout();

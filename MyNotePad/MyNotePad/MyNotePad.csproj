@@ -45,11 +45,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="fAbout.cs">
+    <Compile Include="Hinfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fAbout.Designer.cs">
-      <DependentUpon>fAbout.cs</DependentUpon>
+    <Compile Include="Hinfo.Designer.cs">
+      <DependentUpon>Hinfo.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -59,8 +59,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="fAbout.resx">
-      <DependentUpon>fAbout.cs</DependentUpon>
+    <EmbeddedResource Include="Hinfo.resx">
+      <DependentUpon>Hinfo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

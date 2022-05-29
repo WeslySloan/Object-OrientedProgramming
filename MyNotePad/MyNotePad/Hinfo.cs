@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MyNotePad
 {
-    public partial class fAbout : Form
+    public partial class Hinfo : Form
     {
-        public fAbout()
+        public Hinfo()
         {
             InitializeComponent();
         }
@@ -20,6 +20,11 @@ namespace MyNotePad
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

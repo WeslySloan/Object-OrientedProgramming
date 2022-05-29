@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Windows.Forms;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -6,7 +7,6 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace MyNotePad
 {
@@ -88,7 +88,7 @@ namespace MyNotePad
 
         private void 메모장정보ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            fAbout f = new fAbout();
+            Hinfo f = new Hinfo();
             f.ShowDialog();
         }
 
@@ -106,6 +106,7 @@ namespace MyNotePad
         {
             toolStripStatusLabel2.Text = DateTime.Now.ToShortTimeString();
         }
+
 
     }
 }
