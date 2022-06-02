@@ -8,8 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-
-
 namespace WinFormsApp10
 {
     public partial class Form1 : Form
@@ -44,7 +42,6 @@ namespace WinFormsApp10
                 sr.Close();
             }
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
             SaveFileDialog sfd = new SaveFileDialog();
@@ -57,7 +54,6 @@ namespace WinFormsApp10
                 sw.Close();
             }
         }
-
         private void button3_Click(object sender, EventArgs e)
         {
             contents.Text = string.Empty;
