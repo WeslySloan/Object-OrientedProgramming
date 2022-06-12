@@ -1,0 +1,20 @@
+c:\users\rutel\documents\visual studio 2015\Projects\poll\poll\bin\Debug\poll.exe.config
+c:\users\rutel\documents\visual studio 2015\Projects\poll\poll\obj\Debug\poll.csprojResolveAssemblyReference.cache
+c:\users\rutel\documents\visual studio 2015\Projects\poll\poll\obj\Debug\poll.Form1.resources
+c:\users\rutel\documents\visual studio 2015\Projects\poll\poll\obj\Debug\poll.Properties.Resources.resources
+c:\users\rutel\documents\visual studio 2015\Projects\poll\poll\obj\Debug\poll.csproj.GenerateResource.Cache
+c:\users\rutel\documents\visual studio 2015\Projects\poll\poll\bin\Debug\poll.exe
+c:\users\rutel\documents\visual studio 2015\Projects\poll\poll\bin\Debug\poll.pdb
+c:\users\rutel\documents\visual studio 2015\Projects\poll\poll\obj\Debug\poll.exe
+c:\users\rutel\documents\visual studio 2015\Projects\poll\poll\obj\Debug\poll.pdb
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\bin\Debug\poll.exe.config
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\bin\Debug\poll.exe
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\bin\Debug\poll.pdb
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.csproj.AssemblyReference.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.Form1.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.Properties.Resources.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.csproj.GenerateResource.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.csproj.CoreCompileInputs.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.exe
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.pdb
