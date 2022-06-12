@@ -42,10 +42,9 @@ namespace lab5work
             {
                 PassA3.a3 = RBNA.Text;
             }
-            MessageBox.Show("설문 제출이 완료되었습니다!");
             this.Close();
-            formlast formlast = new formlast();
-            formlast.show();
+            FormLast formlast = new FormLast();
+            formlast.Show();
         }
     }
 }

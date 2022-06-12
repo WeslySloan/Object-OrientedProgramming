@@ -1,0 +1,10 @@
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.csproj.AssemblyReference.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.Form1.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.FormLast.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.FormQ1.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.FormQ2.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.FormQ3.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.Properties.Resources.resources
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.csproj.GenerateResource.cache
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\windows-form-survey-master\obj\x64\Debug\lab5work.csproj.CoreCompileInputs.cache

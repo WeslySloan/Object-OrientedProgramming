@@ -43,9 +43,10 @@
             // 
             // BTNext3
             // 
-            this.BTNext3.Location = new System.Drawing.Point(201, 187);
+            this.BTNext3.Location = new System.Drawing.Point(234, 173);
+            this.BTNext3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.BTNext3.Name = "BTNext3";
-            this.BTNext3.Size = new System.Drawing.Size(79, 29);
+            this.BTNext3.Size = new System.Drawing.Size(92, 27);
             this.BTNext3.TabIndex = 14;
             this.BTNext3.Text = "Next";
             this.BTNext3.UseVisualStyleBackColor = true;
@@ -54,18 +55,20 @@
             // labelQ3
             // 
             this.labelQ3.AutoSize = true;
-            this.labelQ3.Location = new System.Drawing.Point(179, 75);
+            this.labelQ3.Location = new System.Drawing.Point(209, 69);
+            this.labelQ3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelQ3.Name = "labelQ3";
-            this.labelQ3.Size = new System.Drawing.Size(79, 13);
+            this.labelQ3.Size = new System.Drawing.Size(89, 12);
             this.labelQ3.TabIndex = 13;
             this.labelQ3.Text = "Question 3 of 3";
             // 
             // progressBar3
             // 
-            this.progressBar3.Location = new System.Drawing.Point(182, 104);
+            this.progressBar3.Location = new System.Drawing.Point(212, 96);
+            this.progressBar3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.progressBar3.Maximum = 3;
             this.progressBar3.Name = "progressBar3";
-            this.progressBar3.Size = new System.Drawing.Size(114, 22);
+            this.progressBar3.Size = new System.Drawing.Size(133, 20);
             this.progressBar3.TabIndex = 12;
             this.progressBar3.Value = 3;
             // 
@@ -76,9 +79,11 @@
             this.groupBoxQ3.Controls.Add(this.RBMostTime);
             this.groupBoxQ3.Controls.Add(this.RBSomeTime);
             this.groupBoxQ3.Controls.Add(this.RBNever);
-            this.groupBoxQ3.Location = new System.Drawing.Point(21, 65);
+            this.groupBoxQ3.Location = new System.Drawing.Point(24, 60);
+            this.groupBoxQ3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.groupBoxQ3.Name = "groupBoxQ3";
-            this.groupBoxQ3.Size = new System.Drawing.Size(123, 175);
+            this.groupBoxQ3.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.groupBoxQ3.Size = new System.Drawing.Size(144, 162);
             this.groupBoxQ3.TabIndex = 11;
             this.groupBoxQ3.TabStop = false;
             this.groupBoxQ3.Text = "Answer";
@@ -86,9 +91,10 @@
             // RBNA
             // 
             this.RBNA.AutoSize = true;
-            this.RBNA.Location = new System.Drawing.Point(7, 122);
+            this.RBNA.Location = new System.Drawing.Point(8, 113);
+            this.RBNA.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.RBNA.Name = "RBNA";
-            this.RBNA.Size = new System.Drawing.Size(94, 17);
+            this.RBNA.Size = new System.Drawing.Size(105, 16);
             this.RBNA.TabIndex = 4;
             this.RBNA.TabStop = true;
             this.RBNA.Text = "Not Applicable";
@@ -97,9 +103,10 @@
             // RBAlways
             // 
             this.RBAlways.AutoSize = true;
-            this.RBAlways.Location = new System.Drawing.Point(7, 99);
+            this.RBAlways.Location = new System.Drawing.Point(8, 91);
+            this.RBAlways.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.RBAlways.Name = "RBAlways";
-            this.RBAlways.Size = new System.Drawing.Size(58, 17);
+            this.RBAlways.Size = new System.Drawing.Size(65, 16);
             this.RBAlways.TabIndex = 3;
             this.RBAlways.TabStop = true;
             this.RBAlways.Text = "Always";
@@ -108,9 +115,10 @@
             // RBMostTime
             // 
             this.RBMostTime.AutoSize = true;
-            this.RBMostTime.Location = new System.Drawing.Point(7, 76);
+            this.RBMostTime.Location = new System.Drawing.Point(8, 70);
+            this.RBMostTime.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.RBMostTime.Name = "RBMostTime";
-            this.RBMostTime.Size = new System.Drawing.Size(100, 17);
+            this.RBMostTime.Size = new System.Drawing.Size(114, 16);
             this.RBMostTime.TabIndex = 2;
             this.RBMostTime.TabStop = true;
             this.RBMostTime.Text = "Most of the time";
@@ -119,9 +127,10 @@
             // RBSomeTime
             // 
             this.RBSomeTime.AutoSize = true;
-            this.RBSomeTime.Location = new System.Drawing.Point(7, 53);
+            this.RBSomeTime.Location = new System.Drawing.Point(8, 49);
+            this.RBSomeTime.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.RBSomeTime.Name = "RBSomeTime";
-            this.RBSomeTime.Size = new System.Drawing.Size(104, 17);
+            this.RBSomeTime.Size = new System.Drawing.Size(119, 16);
             this.RBSomeTime.TabIndex = 1;
             this.RBSomeTime.TabStop = true;
             this.RBSomeTime.Text = "Some of the time";
@@ -130,9 +139,10 @@
             // RBNever
             // 
             this.RBNever.AutoSize = true;
-            this.RBNever.Location = new System.Drawing.Point(7, 30);
+            this.RBNever.Location = new System.Drawing.Point(8, 28);
+            this.RBNever.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.RBNever.Name = "RBNever";
-            this.RBNever.Size = new System.Drawing.Size(54, 17);
+            this.RBNever.Size = new System.Drawing.Size(56, 16);
             this.RBNever.TabIndex = 0;
             this.RBNever.TabStop = true;
             this.RBNever.Text = "Never";
@@ -141,22 +151,24 @@
             // LBQ3
             // 
             this.LBQ3.AutoSize = true;
-            this.LBQ3.Location = new System.Drawing.Point(18, 28);
+            this.LBQ3.Location = new System.Drawing.Point(21, 26);
+            this.LBQ3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LBQ3.Name = "LBQ3";
-            this.LBQ3.Size = new System.Drawing.Size(297, 13);
+            this.LBQ3.Size = new System.Drawing.Size(213, 12);
             this.LBQ3.TabIndex = 10;
-            this.LBQ3.Text = "Professor demonstrates a thorough knowledge of this subject:";
+            this.LBQ3.Text = "강의 내용에 대한 만족도는 어떠셨나요";
             // 
             // FormQ3
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(322, 304);
+            this.ClientSize = new System.Drawing.Size(376, 281);
             this.Controls.Add(this.BTNext3);
             this.Controls.Add(this.labelQ3);
             this.Controls.Add(this.progressBar3);
             this.Controls.Add(this.groupBoxQ3);
             this.Controls.Add(this.LBQ3);
+            this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "FormQ3";
             this.Text = "Q3";
             this.groupBoxQ3.ResumeLayout(false);

@@ -44,9 +44,9 @@
             this.LBCourseCode.Location = new System.Drawing.Point(59, 45);
             this.LBCourseCode.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LBCourseCode.Name = "LBCourseCode";
-            this.LBCourseCode.Size = new System.Drawing.Size(29, 12);
+            this.LBCourseCode.Size = new System.Drawing.Size(41, 12);
             this.LBCourseCode.TabIndex = 0;
-            this.LBCourseCode.Text = "학번";
+            this.LBCourseCode.Text = "과목명";
             // 
             // LBSemester
             // 
@@ -54,9 +54,9 @@
             this.LBSemester.Location = new System.Drawing.Point(59, 78);
             this.LBSemester.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LBSemester.Name = "LBSemester";
-            this.LBSemester.Size = new System.Drawing.Size(29, 12);
+            this.LBSemester.Size = new System.Drawing.Size(41, 12);
             this.LBSemester.TabIndex = 1;
-            this.LBSemester.Text = "성명";
+            this.LBSemester.Text = "교수명";
             // 
             // LBProfessor
             // 
@@ -64,9 +64,9 @@
             this.LBProfessor.Location = new System.Drawing.Point(59, 113);
             this.LBProfessor.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LBProfessor.Name = "LBProfessor";
-            this.LBProfessor.Size = new System.Drawing.Size(59, 12);
+            this.LBProfessor.Size = new System.Drawing.Size(29, 12);
             this.LBProfessor.TabIndex = 2;
-            this.LBProfessor.Text = "Professor";
+            this.LBProfessor.Text = "학번";
             // 
             // TBCourseCode
             // 
