@@ -18,3 +18,14 @@ C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\
 C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.csproj.CoreCompileInputs.cache
 C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.exe
 C:\Users\rkc32\OneDrive\Desktop\GITHUB\Object-OrientedProgramming\poll\poll\obj\Debug\poll.pdb
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\bin\Debug\poll.exe.config
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\bin\Debug\poll.exe
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\bin\Debug\poll.pdb
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\obj\Debug\poll.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\obj\Debug\poll.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\obj\Debug\poll.Form1.resources
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\obj\Debug\poll.Properties.Resources.resources
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\obj\Debug\poll.csproj.GenerateResource.cache
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\obj\Debug\poll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\obj\Debug\poll.exe
+C:\Users\User\Desktop\github\Object-OrientedProgramming\poll\poll\obj\Debug\poll.pdb
