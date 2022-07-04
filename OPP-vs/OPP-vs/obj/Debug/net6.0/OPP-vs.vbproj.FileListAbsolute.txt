@@ -1,0 +1,12 @@
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\obj\Debug\net6.0\OPP-vs.vbproj.AssemblyReference.cache
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\obj\Debug\net6.0\OPP-vs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\obj\Debug\net6.0\OPP-vs.AssemblyInfoInputs.cache
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\obj\Debug\net6.0\OPP-vs.AssemblyInfo.vb
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\obj\Debug\net6.0\OPP-vs.vbproj.CoreCompileInputs.cache
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\bin\Debug\net6.0\OPP-vs.deps.json
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\bin\Debug\net6.0\OPP-vs.dll
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\bin\Debug\net6.0\OPP-vs.pdb
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\obj\Debug\net6.0\OPP-vs.dll
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\obj\Debug\net6.0\refint\OPP-vs.dll
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\obj\Debug\net6.0\OPP-vs.pdb
+C:\Users\rkc32\OneDrive\Desktop\OPP-vs\OPP-vs\obj\Debug\net6.0\ref\OPP-vs.dll
